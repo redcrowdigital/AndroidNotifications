@@ -1,11 +1,11 @@
-package co.centroida.notifications.notifications;
+package au.com.redcrowdigital.rcdnotifier.notifications;
 
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
-import co.centroida.notifications.Constants;
+import au.com.redcrowdigital.rcdnotifier.Constants;
 
 /**
  * Created by L on 09/05/2017.

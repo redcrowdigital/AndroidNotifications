@@ -1,4 +1,4 @@
-package co.centroida.notifications;
+package au.com.redcrowdigital.rcdnotifier;
 
 import android.app.NotificationChannel;
 import android.app.NotificationChannelGroup;

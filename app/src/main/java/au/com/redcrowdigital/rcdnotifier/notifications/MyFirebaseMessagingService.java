@@ -1,4 +1,4 @@
-package co.centroida.notifications.notifications;
+package au.com.redcrowdigital.rcdnotifier.notifications;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -24,8 +24,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Random;
 
-import co.centroida.notifications.R;
-import co.centroida.notifications.StartActivity;
+import au.com.redcrowdigital.rcdnotifier.R;
+import au.com.redcrowdigital.rcdnotifier.StartActivity;
 
 /**
  * Created by L on 09/05/2017.

@@ -1,4 +1,4 @@
-package co.centroida.notifications.notifications;
+package au.com.redcrowdigital.rcdnotifier.notifications;
 
 import android.app.Service;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package co.centroida.notifications;
+package au.com.redcrowdigital.rcdnotifier;
 
 /**
  * Created by L on 09/05/2017.
